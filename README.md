@@ -8,16 +8,16 @@ a gui program used to scrap a particular website and adding the required data to
 ![alt homepage](https://kunal932.github.io/full_gui_web_scrapping/Home%20Page.png)
 
 #### Scrapping Data
-![alt scrapping](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Scrapping%20Data.png)
+![alt scrapping](https://kunal932.github.io/full_gui_web_scrapping/Scrapping%20Data.png)
 
 #### Load Data into database
-![alt load-data](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Loading%20Data.png)
+![alt load-data](https://kunal932.github.io/full_gui_web_scrapping/Loading%20Data.png)
 
 #### Show Data into Tree View
-![alt show-data](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Loading%20Data.png)
+![alt show-data](https://kunal932.github.io/full_gui_web_scrapping/Loading%20Data.png)
 
 #### Database
-![alt database](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Database.png)
+![alt database](https://kunal932.github.io/full_gui_web_scrapping/Database.png)
 
 ## Coding Snippets
 
