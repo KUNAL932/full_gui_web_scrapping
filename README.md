@@ -5,7 +5,7 @@ a gui program used to scrap a particular website and adding the required data to
 ## Screenshots
 
 #### Homepage
-![alt homepage](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Home%20Page.png)
+![alt homepage](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Home%20Page.PNG "HomePage")
 
 #### Scrapping Data
 ![alt scrapping](https://github.com/KUNAL932/full_gui_web_scrapping/blob/master/Scrapping%20Data.png)
