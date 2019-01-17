@@ -14,7 +14,7 @@ a gui program used to scrap a particular website and adding the required data to
 ![alt load-data](https://kunal932.github.io/full_gui_web_scrapping/Loading%20Data.png)
 
 #### Show Data into Tree View
-![alt show-data](https://kunal932.github.io/full_gui_web_scrapping/Loading%20Data.png)
+![alt show-data](https://kunal932.github.io/full_gui_web_scrapping/Show%20Data.png)
 
 #### Database
 ![alt database](https://kunal932.github.io/full_gui_web_scrapping/Database.png)
